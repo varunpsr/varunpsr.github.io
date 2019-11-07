@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mia",
+    "species": "Dog",
+    "colors": ["Black"]
+  },
+  {
+    "name": "Daisy",
+    "species": "Dog",
+    "colors": ["Black", "White"]
+  },
+  {
+    "name": "Mimi",
+    "species": "Cat",
+    "colors": ["Black", "Brown", "White"]
+  }
+]
